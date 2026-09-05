@@ -1,5 +1,15 @@
 # Terms
 Repository (Repo)
-
+Branch
 # Command
 - git init
+- git status
+- git add
+- git commit 
+- git log
+- git log --oneline
+- git checkout {branch name}
+- git branch 
+- git checkout -b {branch name}
+- git merge {branch name}
+- git branch -d {brannch name}
